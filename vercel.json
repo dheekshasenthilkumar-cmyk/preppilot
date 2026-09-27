@@ -1,9 +1,3 @@
 {
-  "$schema": "https://openapi.vercel.sh/vercel.json",
-  "functions": {
-    "api/chat.js": {
-      "runtime": "nodejs24.x",
-      "supportsCancellation": true
-    }
-  }
+  "$schema": "https://openapi.vercel.sh/vercel.json"
 }
