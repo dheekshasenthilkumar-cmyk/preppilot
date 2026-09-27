@@ -1,0 +1,9 @@
+html {
+  min-width: 320px;
+  background: #eaf6fb;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+}
